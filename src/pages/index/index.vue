@@ -39,10 +39,10 @@ export default {
   data () {
     return {
       imgUrls: [
-        'http://www.canyin88.com/uploads/image/2019/04/16/1555378220872933.jpg',
-        'http://www.canyin88.com/uploads/image/2019/04/15/1555321255843942.jpg',
-        'http://www.canyin88.com/uploads/190415/99ad8154e7332ca96ccb323580b3b8a2_3.jpg'
-      ],
+        'C:\app2\spot\static\images\ba8049666749e8beaa00a5ebf8499731.jpg',
+        'C:\app2\spot\static\images\04c2e5c3f62ef423321e89abe007194b.jpg',
+        'C:\app2\spot\static\images\848e230d5579b41a1ddde64a5977cdff.jpeg' 
+       ],
       indicatorDots: true,
       autoplay: true,
       interval: 5000,

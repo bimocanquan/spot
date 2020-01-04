@@ -1,6 +1,6 @@
 [
-    {"name":"寺庙","address":"地址1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-    {"name":"书名1","address":"作者1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-    {"name":"书名1","address":"作者1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-    {"name":"书名1","address":"作者1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"}
+    {"name":"古德寺","address":"位于湖北武汉市汉口黄浦路上滑坡74号","image":"/static/images/gudesi.jpg","remark":"光绪年间起就存在了，后现代结合了欧美风格"},  
+    {"name":"宝通寺","address":"武昌洪山南麓","image":"/static/images/baotongsi.jpg","remark":"武汉市唯一的皇家寺院，历史悠久"},
+    {"name":"景德寺","address":"湖北省武汉市东西湖区柏泉月塘角 ","image":"/static/images/jingdesi.jpg","remark":"山水环绕，风景优美"},
+    {"name":"龙华寺","address":"武汉市武昌蛇山南侧（中南财经政法大学对面）","image":"/static/images/longhuasi.jpg","remark":"是一座尼姑庵有不少女性佛教信徒"}
 ]
