@@ -1,14 +1,13 @@
 {
   "pages": [
     "pages/index/main",
-    "pages/list/main",
     "pages/map/main",
     "pages/mine/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "武汉景点推荐",
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
