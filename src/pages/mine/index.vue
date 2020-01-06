@@ -11,7 +11,7 @@
       <i-input :value="address" @change="changeAddress($event)" title="详细地址" placeholder="请输入详细地址" maxlength="30" />
       <i-input :value="reason" @change="changeReason($event)" title="推荐理由" placeholder="请输入推荐理由" maxlength="50" />
     </i-panel>
-    <i-button  @click="handleClick" type="warning" size="default">我要推荐</i-button>
+    <i-button  @click="handleClick" type="warning" size="default">提交</i-button>
   </div>
 </template>
 

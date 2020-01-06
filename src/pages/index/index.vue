@@ -39,8 +39,9 @@ export default {
   data () {
     return {
       imgUrls: [
-        '/static/images/ba8049666749e8beaa00a5ebf8499731.jpg',
-        '/static/images/848e230d5579b41a1ddde64a5977cdff.jpeg' 
+        '/static/images/848e230d5579b41a1ddde64a5977cdff.jpeg',
+        '/static/images/huanghelou.jpg',
+        '/static/images/ba8049666749e8beaa00a5ebf8499731.jpg'
        ],
       indicatorDots: true,
       autoplay: true,
