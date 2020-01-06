@@ -1,7 +1,7 @@
 [
     {"id":1,"name":"东湖","address":"坐落于湖北省武汉市武昌区东湖风景区","remark":"东湖占地面积大，分为几个景区，一年四季均有美景","img":"/static/images/donghu.jpg","type":1,"latitude": 30.557636,"longitude": 114.440612},
-    {"id":2,"name":"欢乐谷","address":"位于湖北省武汉市欢乐大道196号","remark":"只要你敢玩，就能玩个爽","img":"/static/images/huanlegu.jpg","type":4,"latitude": 30.59723,"longitude": 114.399429},
-    {"id":3,"name":"户部巷","address":"湖北省武汉市武昌区","remark":"有各式各样的小吃，特色产品","img":"/static/images/hubuxiang.jpg","type":3,"latitude": 30.553436,"longitude":114.304861},
+    {"id":2,"name":"欢乐谷","address":"位于湖北省武汉市欢乐大道196号","remark":"只要你敢玩，就能玩个爽","img":"/static/images/huanlegu.jpg","type":1,"latitude": 30.59723,"longitude": 114.399429},
+    {"id":3,"name":"户部巷","address":"湖北省武汉市武昌区","remark":"有各式各样的小吃，特色产品","img":"/static/images/hubuxiang.jpg","type":2,"latitude": 30.553436,"longitude":114.304861},
     {"id":4,"name":"湖北省博物馆","address":"坐落于湖北省武汉市武昌区东湖风景区","remark":"历史悠久，是湖北省馆最大的博物馆，属于国家级综合性博物馆","img":"/static/images/hubeishengbowuguan.jpg","type":3,"latitude": 30.567828,"longitude": 114.371879}
     
  
