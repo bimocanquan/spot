@@ -39,9 +39,8 @@ export default {
   data () {
     return {
       imgUrls: [
-        'C:\app2\spot\static\images\ba8049666749e8beaa00a5ebf8499731.jpg',
-        'C:\app2\spot\static\images\04c2e5c3f62ef423321e89abe007194b.jpg',
-        'C:\app2\spot\static\images\848e230d5579b41a1ddde64a5977cdff.jpeg' 
+        '/static/images/ba8049666749e8beaa00a5ebf8499731.jpg',
+        '/static/images/848e230d5579b41a1ddde64a5977cdff.jpeg' 
        ],
       indicatorDots: true,
       autoplay: true,

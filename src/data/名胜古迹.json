@@ -1,6 +1,0 @@
-[
-    {"name":"黄鹤楼","address":"位于湖北省武汉市长江南岸的武昌蛇山之巅","image":"/static/images/huanghelou.jpg","remark":"国家5A级景区，武汉的标志性景点之一"},  
-    {"name":"东湖","address":"坐落于湖北省武汉市武昌区东湖风景区","image":"/static/images/donghu.jpg","remark":"东湖占地面积大，分为几个景区，一年四季均有美景"},
-    {"name":"晴川阁","address":"位于湖北省武汉市汉阳龟山东麓禹功矶上 ","image":"/static/images/qingchuange.jpg","remark":"蕴含文化底蕴，古风感十足，照相的人很多"},
-    {"name":"昙华林","address":"位于湖北省武汉市武昌区西部 ","image":"/static/images/tanhualin.jpg","remark":"十分文艺的一条街，街边许多创意小店"}
-]

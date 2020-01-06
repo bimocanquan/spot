@@ -1,6 +1,0 @@
-[
-    {"name":"湖北省图书馆","address":"位于武汉市武昌区公正路","image":"/static/images/hubeishengtushuguan.jpg","remark":"馆藏丰富，历史悠久，独具特色"},  
-    {"name":"湖北省博物馆","address":"坐落于湖北省武汉市武昌区东湖风景区","image":"/static/images/hubeishengbowuguan.jpg","remark":"历史悠久，是湖北省馆最大的博物馆，属于国家级综合性博物馆"},
-    {"name":"武汉科技馆","address":"武汉市江岸区赵家条104号 ","image":"/static/images/wuhankejiguan.jpg","remark":"既能科普知识，又能在动手中获得乐趣"},
-    {"name":"武汉梵高星空给艺术馆","address":"汉阳区龙阳大道188号海宁皮革城3层绿厅湖北路 ","image":"/static/images/wuhanfangaoxingkongyishuguan.jpg","remark":"逼真的画作，让人产生视觉错觉，仿佛身在画中"}
-]

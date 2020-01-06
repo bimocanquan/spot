@@ -1,0 +1,6 @@
+[
+    {"name":"户部巷","address":"湖北省武汉市武昌区 ","img":"/static/images/hubuxiang.jpg","remark":"有各式各样的小吃，特色产品"},  
+    {"name":"楚河汉街","address":"武汉市武昌区楚河汉街1号","img":"/static/images/chuhehanjie.jpg","remark":"有很多美食，休闲区等，交通方便"},
+    {"name":"硚口美食街","address":"湖北省武汉市硚口区桥口路 ","img":"/static/images/qiaokoumeishijie.jpeg","remark":"武汉最长的一条餐饮街"},
+    {"name":"光谷步行街","address":"位于湖北省武汉市洪山区光谷广场 ","img":"/static/images/guanggubuxingjie.jpg","remark":"包含各种风情街，不乏美景美食和商业区"}
+]
